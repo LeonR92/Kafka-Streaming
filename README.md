@@ -6,7 +6,7 @@ Welcome to the GitHub repository for our Apache Kafka Data Pipeline Project! Thi
 
 Below is the project's worfklow. Settings in Docker Compose file and Python code have to be tweaked if this project is to be run in the cloud or a VM.
 
-Data Generator -> Kafka Producer -> Kafka Consumer -> AWS S3 -> CSV -> PowerBI/Tableau
+Data Generator -> Kafka Producer -> Kafka Consumer -> AWS S3 -> CSV-Loader -> PowerBI/Tableau
 
 
 **Description:**
