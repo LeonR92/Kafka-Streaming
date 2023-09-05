@@ -1,0 +1,90 @@
+user_id,customer_name,customer_gender,customer_occupation,order_value,order_date
+23010,Brian Sweeney,Male,Gaffer,120.28,2022-12-08
+31506,Scott Moran,Male,Curator,498.25,2023-05-15
+14644,Michael Cook,Male,Control and instrumentation engineer,464.87,2023-08-16
+46464,Megan Bender,Female,Occupational therapist,155.66,2023-05-15
+41839,Kelsey Choi,Female,Public affairs consultant,135.72,2022-11-15
+45902,Kendra Hester,Female,"Journalist, broadcasting",343.8,2023-05-28
+9369,Craig Farmer,Male,Acupuncturist,105.82,2023-07-06
+22583,Anne Wells,Male,Financial trader,589.74,2022-10-01
+32263,Andrew Peterson,Female,Textile designer,47.87,2023-07-23
+2759,Rebekah Avila,Male,Field trials officer,769.95,2023-02-27
+14970,Brian Mclean,Male,"Surveyor, minerals",784.87,2022-12-08
+36172,Laura Rodriguez,Female,"Engineer, agricultural",270.01,2023-05-09
+24827,Claudia Smith,Female,Passenger transport manager,641.39,2023-03-03
+6485,Richard Dudley,Female,Mental health nurse,361.04,2023-08-12
+22223,Nicholas Bennett,Male,Diagnostic radiographer,815.79,2023-04-09
+13620,Stephanie Keller,Male,Building services engineer,945.2,2022-12-19
+38164,Brian Moss,Male,Land,790.3,2022-11-08
+36177,Robert Pena,Female,Building control surveyor,869.38,2023-05-15
+4168,Diane Benitez,Male,Broadcast presenter,285.2,2023-07-28
+47726,Mr. Jonathan Curry,Female,Pharmacologist,340.36,2023-07-15
+21238,Lisa Ramsey,Female,Editorial assistant,616.02,2022-12-16
+25884,Lucas Moore,Male,Psychotherapist,848.4,2023-04-15
+11007,Charles Miller,Male,Catering manager,892.69,2022-11-03
+23114,Paul Harper,Male,Dance movement psychotherapist,241.97,2022-11-24
+33015,Savannah Williams,Male,Advertising account planner,117.81,2023-05-14
+895,Thomas Vasquez,Male,Occupational therapist,452.73,2022-10-17
+23391,Taylor Walters,Female,Neurosurgeon,249.67,2023-03-07
+20360,Nicole Mays,Male,Operational investment banker,271.65,2023-05-10
+38683,Edward Sullivan,Male,Water quality scientist,524.53,2022-10-10
+13755,Lisa Espinoza,Male,Information systems manager,534.62,2023-06-27
+4896,Tonya Taylor,Female,Community arts worker,625.05,2022-09-24
+22203,Crystal Ramos,Male,Architectural technologist,637.79,2023-01-21
+7182,Michele Sanchez,Male,Retail merchandiser,152.91,2023-08-28
+29433,Sandra Johnson,Female,Media buyer,945.59,2023-03-27
+29158,Faith Williamson,Female,Research scientist (life sciences),348.06,2023-08-07
+34885,Robert Giles,Male,"Scientist, water quality",377.33,2023-05-24
+25966,Todd Owen,Male,Stage manager,471.56,2023-06-04
+41012,Alexander Frank,Female,Nature conservation officer,692.39,2022-12-26
+23888,Elizabeth Dominguez,Female,Advice worker,291.87,2022-12-20
+33352,Greg Campbell,Female,Financial controller,945.69,2023-01-26
+24070,Rachel Myers,Female,Physiological scientist,494.54,2023-03-05
+14843,Douglas Gray,Male,"Surveyor, building",209.91,2022-12-09
+37920,Brent Davis,Female,Theme park manager,306.36,2022-09-24
+29782,Brandon Wheeler,Female,"Teacher, adult education",441.15,2023-09-02
+35928,Austin Grimes,Male,Actuary,299.09,2023-04-16
+21498,Michael Arellano,Female,"Conservator, museum/gallery",266.53,2022-12-17
+24911,Jennifer Johnson,Male,Pharmacologist,911.14,2023-05-10
+23858,Karen Young,Female,Database administrator,419.8,2022-10-23
+35151,Karen Jarvis,Male,Geoscientist,893.32,2022-09-25
+36782,Karen Howell,Female,Investment analyst,105.5,2022-12-20
+4546,Bobby Blevins,Male,Automotive engineer,372.26,2023-08-10
+42933,Ashley Baxter,Female,Trade mark attorney,516.72,2023-01-19
+34511,Barbara Alvarez,Female,"Administrator, education",159.96,2023-06-19
+24238,Alexis Bauer,Male,Chemical engineer,505.41,2023-04-04
+16563,Julia Lee,Male,"Conservator, furniture",737.27,2023-05-14
+6257,Maria Schmidt,Male,Facilities manager,571.67,2022-10-02
+33320,Christopher Smith,Female,Probation officer,833.09,2023-08-18
+2244,Todd Rogers,Male,"Engineer, energy",43.59,2023-08-02
+570,Valerie Garner,Female,Quantity surveyor,893.28,2022-11-27
+5413,Michael Marshall,Male,Planning and development surveyor,364.99,2022-12-09
+26925,Jeff Weber,Female,"Surveyor, rural practice",310.99,2023-08-02
+2550,Blake Salas,Male,Freight forwarder,15.03,2023-05-04
+43453,Richard Acevedo,Male,Plant breeder/geneticist,518.81,2023-06-04
+45309,Yvonne Williams,Female,"Development worker, community",584.27,2023-08-04
+21663,Steven Collins,Female,Administrator,672.01,2023-06-30
+46556,Alexandria Cobb,Female,"Conservation officer, historic buildings",796.85,2023-05-01
+46517,Charles Baker,Male,Publishing rights manager,871.69,2023-03-10
+39106,Julia Brown,Male,Pharmacologist,647.92,2023-06-10
+29465,Brandon King,Male,Computer games developer,863.65,2022-09-15
+45779,Lauren Clark,Female,Astronomer,706.5,2022-10-13
+40101,Sandra Wright,Female,"Scientist, audiological",932.87,2023-02-07
+33448,Alexis Turner,Male,Oncologist,730.95,2023-04-18
+34071,Kathleen Norris,Female,"Programmer, multimedia",895.98,2023-08-18
+6598,Dana Jackson,Female,"Investment banker, corporate",232.77,2023-02-24
+4526,Debra Ellis DDS,Female,"Journalist, newspaper",494.96,2023-07-23
+46780,Brandon Jackson,Female,Manufacturing engineer,690.82,2022-10-21
+43973,Carol Williams,Female,Archaeologist,363.1,2023-05-25
+21674,Jessica Bridges,Female,Chief of Staff,964.02,2023-02-16
+47529,Clifford Moses,Female,Radio broadcast assistant,484.64,2023-01-29
+30413,Ricardo Waters,Male,"Engineer, building services",857.17,2022-09-07
+15856,Cody Collins,Male,Control and instrumentation engineer,656.45,2022-10-11
+9486,Jeremy Levine,Female,Set designer,797.03,2023-06-22
+49050,Amanda Manning MD,Male,Merchant navy officer,321.04,2022-09-28
+46891,Brenda Kelly,Female,Geoscientist,100.78,2023-07-14
+30543,Judith Mathis,Female,"Teacher, early years/pre",531.96,2023-02-06
+30468,Sarah Allen,Male,Warehouse manager,936.26,2023-07-02
+44615,Stephanie Leonard,Female,Health and safety adviser,609.35,2022-09-18
+6744,Jamie Farley,Male,"Journalist, newspaper",232.46,2022-09-05
+22631,Linda Davis,Female,Air broker,565.9,2023-03-07
